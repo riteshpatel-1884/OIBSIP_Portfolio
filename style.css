@@ -282,7 +282,7 @@ i:hover {
 .prctg_node,
 .prctg_mongo {
   position: absolute;
-  color:white;
+   color: white;
   transform: translate(-50%, -50%);
 }
 @keyframes fill_html {
