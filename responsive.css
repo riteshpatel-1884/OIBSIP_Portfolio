@@ -57,7 +57,7 @@
     justify-content: space-evenly;
   }
   .work_phone {
-    display: block;
+    display: none;
   }
   .edu_exp {
     flex-direction: column;
